@@ -1,0 +1,14 @@
+{
+  "name": "andi-lin-photography",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Andi Lin's photography portfolio",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check": "npm run build && npm run validate"
+  }
+}

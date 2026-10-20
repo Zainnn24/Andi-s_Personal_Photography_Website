@@ -1,0 +1,1348 @@
+[
+  {
+    "slug": "what-remains-alive",
+    "title": "What Remains Alive",
+    "primaryCategory": "people-life",
+    "location": "Ramesseum, Egypt",
+    "description": "A child dances before the fallen figure of Ramesses II. Against the scale and stillness of the monument, a fleeting gesture suggests a different kind of continuity: one carried through play, movement, and lived experience.",
+    "awards": [
+      {
+        "organization": "Architizer Vision Awards",
+        "distinction": "Jury Winner",
+        "year": 2026,
+        "category": "Photograph: People",
+        "url": "https://winners.architizer.com/2026/Vision/",
+        "scope": "single"
+      }
+    ],
+    "descriptionSourceUrl": "https://winners.architizer.com/2026/Vision/",
+    "id": "what-remains-alive",
+    "kind": "single",
+    "order": 1,
+    "featured": true,
+    "featuredOrder": 1,
+    "images": [
+      {
+        "id": "what-remains-alive-01",
+        "src": "images/what-remains-alive/what-remains-alive-01-1750.jpg",
+        "width": 1750,
+        "height": 3107,
+        "alt": "A child moves between tall sandstone columns in front of a fallen monumental statue.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 852,
+            "jpeg": "images/what-remains-alive/what-remains-alive-01-480.jpg",
+            "webp": "images/what-remains-alive/what-remains-alive-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1704,
+            "jpeg": "images/what-remains-alive/what-remains-alive-01-960.jpg",
+            "webp": "images/what-remains-alive/what-remains-alive-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2841,
+            "jpeg": "images/what-remains-alive/what-remains-alive-01-1600.jpg",
+            "webp": "images/what-remains-alive/what-remains-alive-01-1600.webp"
+          },
+          {
+            "width": 1750,
+            "height": 3107,
+            "jpeg": "images/what-remains-alive/what-remains-alive-01-1750.jpg",
+            "webp": "images/what-remains-alive/what-remains-alive-01-1750.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "what-remains-alive-01"
+  },
+  {
+    "slug": "the-city-ripples-so-do-we",
+    "title": "The City Ripples, So Do We",
+    "primaryCategory": "urban",
+    "description": "Reflected in a puddle, Canton Tower loses its fixed outline. Ripples carry the skyline and passing pedestrians into the same shifting surface. The photograph considers architecture through participation and change, where the apparent permanence of buildings meets the passing lives around them.",
+    "awards": [
+      {
+        "organization": "Architizer Vision Awards",
+        "distinction": "Editor’s Choice Winner",
+        "year": 2025,
+        "category": "Photograph: Architecture & Urban Life",
+        "url": "https://winners.architizer.com/2025/Vision/",
+        "scope": "single"
+      },
+      {
+        "organization": "Architizer Vision Awards",
+        "distinction": "Finalist",
+        "year": 2025,
+        "category": "Photograph: Architecture & People",
+        "url": "https://winners.architizer.com/2025/Vision/",
+        "scope": "single"
+      }
+    ],
+    "descriptionSourceUrl": "https://winners.architizer.com/2025/Vision/",
+    "id": "the-city-ripples-so-do-we",
+    "kind": "single",
+    "order": 2,
+    "featured": true,
+    "featuredOrder": 2,
+    "images": [
+      {
+        "id": "the-city-ripples-so-do-we-01",
+        "src": "images/the-city-ripples-so-do-we/the-city-ripples-so-do-we-01-2155.jpg",
+        "width": 2155,
+        "height": 3803,
+        "alt": "A tower and passing pedestrians reflected in rippling water.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 847,
+            "jpeg": "images/the-city-ripples-so-do-we/the-city-ripples-so-do-we-01-480.jpg",
+            "webp": "images/the-city-ripples-so-do-we/the-city-ripples-so-do-we-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1694,
+            "jpeg": "images/the-city-ripples-so-do-we/the-city-ripples-so-do-we-01-960.jpg",
+            "webp": "images/the-city-ripples-so-do-we/the-city-ripples-so-do-we-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2824,
+            "jpeg": "images/the-city-ripples-so-do-we/the-city-ripples-so-do-we-01-1600.jpg",
+            "webp": "images/the-city-ripples-so-do-we/the-city-ripples-so-do-we-01-1600.webp"
+          },
+          {
+            "width": 2155,
+            "height": 3803,
+            "jpeg": "images/the-city-ripples-so-do-we/the-city-ripples-so-do-we-01-2155.jpg",
+            "webp": "images/the-city-ripples-so-do-we/the-city-ripples-so-do-we-01-2155.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "the-city-ripples-so-do-we-01"
+  },
+  {
+    "slug": "playful-growth",
+    "title": "Playful Growth",
+    "primaryCategory": "people-life",
+    "location": "City View Park, Mississauga",
+    "description": "A mother and son play soccer beneath two towers under construction. In the warm evening light, the small exchange on the field sits alongside a city taking shape. Play, care, and growth unfold at very different scales.",
+    "awards": [
+      {
+        "organization": "Architizer Vision Awards",
+        "distinction": "Student Winner",
+        "year": 2023,
+        "category": "Urban Photograph",
+        "url": "https://architizer.com/blog/inspiration/collections/micro-to-macro-vision-awards/",
+        "scope": "single"
+      }
+    ],
+    "descriptionSourceUrl": "https://architizer.com/blog/inspiration/collections/micro-to-macro-vision-awards/",
+    "id": "playful-growth",
+    "kind": "single",
+    "order": 3,
+    "featured": true,
+    "featuredOrder": 3,
+    "images": [
+      {
+        "id": "playful-growth-01",
+        "src": "images/playful-growth/playful-growth-01-2400.jpg",
+        "width": 2400,
+        "height": 3221,
+        "alt": "A child kicks a soccer ball toward a woman in red beneath two towers under construction.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 644,
+            "jpeg": "images/playful-growth/playful-growth-01-480.jpg",
+            "webp": "images/playful-growth/playful-growth-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1288,
+            "jpeg": "images/playful-growth/playful-growth-01-960.jpg",
+            "webp": "images/playful-growth/playful-growth-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2147,
+            "jpeg": "images/playful-growth/playful-growth-01-1600.jpg",
+            "webp": "images/playful-growth/playful-growth-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3221,
+            "jpeg": "images/playful-growth/playful-growth-01-2400.jpg",
+            "webp": "images/playful-growth/playful-growth-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "playful-growth-01"
+  },
+  {
+    "slug": "dancing-with-gravity",
+    "title": "Dancing with Gravity",
+    "primaryCategory": "people-life",
+    "description": "A raised pair of arms and a reflected figure appear suspended against a pale, gridded surface. Below them, a dense field of marks bends into a sharp corner, bringing gesture, reflection, and architectural geometry into the same frame.",
+    "awards": [
+      {
+        "organization": "McGill Engineering Photography Competition",
+        "distinction": "Grand Prize Winner",
+        "year": 2023,
+        "category": "",
+        "url": "https://www.mcgill.ca/engineering/initiatives/empower/photocontest/winners-2023",
+        "scope": "single"
+      }
+    ],
+    "id": "dancing-with-gravity",
+    "kind": "single",
+    "order": 4,
+    "featured": true,
+    "featuredOrder": 4,
+    "images": [
+      {
+        "id": "dancing-with-gravity-01",
+        "src": "images/dancing-with-gravity/dancing-with-gravity-01-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A person with raised arms is reflected above a sharply folded, patterned surface.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/dancing-with-gravity/dancing-with-gravity-01-480.jpg",
+            "webp": "images/dancing-with-gravity/dancing-with-gravity-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/dancing-with-gravity/dancing-with-gravity-01-960.jpg",
+            "webp": "images/dancing-with-gravity/dancing-with-gravity-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/dancing-with-gravity/dancing-with-gravity-01-1600.jpg",
+            "webp": "images/dancing-with-gravity/dancing-with-gravity-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/dancing-with-gravity/dancing-with-gravity-01-2400.jpg",
+            "webp": "images/dancing-with-gravity/dancing-with-gravity-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "dancing-with-gravity-01"
+  },
+  {
+    "slug": "the-fireworks-echo",
+    "title": "The Firework’s Echo",
+    "primaryCategory": "people-life",
+    "description": "Smoke and sparks gather above a seated figure in red. A green chair and the edge of a wooden table emerge from the surrounding darkness. The scene is briefly filled with light.",
+    "awards": [
+      {
+        "organization": "Xinyangda Annual Photo Competition",
+        "distinction": "First Place",
+        "year": 2024,
+        "category": "",
+        "url": null,
+        "scope": "single"
+      }
+    ],
+    "id": "the-fireworks-echo",
+    "kind": "single",
+    "order": 5,
+    "featured": true,
+    "featuredOrder": 5,
+    "images": [
+      {
+        "id": "the-fireworks-echo-01",
+        "src": "images/the-fireworks-echo/the-fireworks-echo-01-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A seated figure in red is partly hidden by a glowing cloud of smoke and sparks.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/the-fireworks-echo/the-fireworks-echo-01-480.jpg",
+            "webp": "images/the-fireworks-echo/the-fireworks-echo-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/the-fireworks-echo/the-fireworks-echo-01-960.jpg",
+            "webp": "images/the-fireworks-echo/the-fireworks-echo-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/the-fireworks-echo/the-fireworks-echo-01-1600.jpg",
+            "webp": "images/the-fireworks-echo/the-fireworks-echo-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/the-fireworks-echo/the-fireworks-echo-01-2400.jpg",
+            "webp": "images/the-fireworks-echo/the-fireworks-echo-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "the-fireworks-echo-01"
+  },
+  {
+    "slug": "monochrome-richness-sensorial-romance",
+    "title": "Monochrome Richness, Sensorial Romance",
+    "primaryCategory": "details",
+    "kind": "series",
+    "description": "Tender thoughts, A mono serenade.\nFreedom blooms, Unfettered grace.",
+    "poem": true,
+    "awards": [
+      {
+        "organization": "International Photography Awards",
+        "distinction": "Honorable Mention",
+        "year": 2023,
+        "category": "",
+        "url": null,
+        "scope": "series"
+      }
+    ],
+    "id": "monochrome-richness-sensorial-romance",
+    "order": 6,
+    "featured": true,
+    "featuredOrder": 6,
+    "images": [
+      {
+        "id": "monochrome-richness-sensorial-romance-01",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A young child stands in a strip of sunlight beside a graffiti-covered wall, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-2400.webp"
+          }
+        ],
+        "order": 1
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-02",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-2400.jpg",
+        "width": 2400,
+        "height": 3388,
+        "alt": "Balconies and angular shadows on a concrete building, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 678,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1355,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2259,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3388,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-2400.webp"
+          }
+        ],
+        "order": 2
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-03",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "An ornate railing casts a patterned shadow across a stone threshold, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-2400.webp"
+          }
+        ],
+        "order": 3
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-04",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-2400.jpg",
+        "width": 2400,
+        "height": 2884,
+        "alt": "Overhead wires cross a pale sky above a sloping rooftop, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 577,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1154,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 1923,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 2884,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-2400.webp"
+          }
+        ],
+        "order": 4
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-05",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A small bird perches on the corner of a building beneath an open sky, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2134,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-2400.webp"
+          }
+        ],
+        "order": 5
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-06",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A droplet hangs beneath a metal coffee pot above a white cup, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-2400.webp"
+          }
+        ],
+        "order": 6
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-07",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-07-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A dark striped sculptural form on a windowsill against a bright curtain, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-07-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-07-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-07-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-07-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2134,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-07-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-07-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-07-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-07-2400.webp"
+          }
+        ],
+        "order": 7
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-08",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-2400.jpg",
+        "width": 2400,
+        "height": 3566,
+        "alt": "A narrow band of sunlight crosses a wooden floor beside a chair, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 713,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1427,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2378,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3566,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-2400.webp"
+          }
+        ],
+        "order": 8
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-09",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-2400.jpg",
+        "width": 2400,
+        "height": 3298,
+        "alt": "A chairlift carries passengers above a mountain and conifers, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 660,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1319,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2199,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3298,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-2400.webp"
+          }
+        ],
+        "order": 9
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-10",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "Corrugated roof edges, pipes, and overhead cables, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-2400.webp"
+          }
+        ],
+        "order": 10
+      }
+    ],
+    "coverImageId": "monochrome-richness-sensorial-romance-01"
+  },
+  {
+    "slug": "high-low-freedom",
+    "title": "High-Low Freedom",
+    "primaryCategory": "urban",
+    "location": "Davie Village, Vancouver",
+    "description": "Seen from a balcony, a pool, rooftops, and streets gather into a steep, sunlit view of Davie Village. The photograph holds the neighbourhood’s vibrant public life against the shadowed railing, reflecting on freedom, belonging, and the boundaries that can remain around them.",
+    "awards": [
+      {
+        "organization": "Architizer One Photo Challenge",
+        "distinction": "Top 100 Finalist",
+        "year": 2022,
+        "category": "",
+        "url": "https://architizer.com/blog/competitions/one-photo-challenge-2022-finalists-part-4/",
+        "scope": "single"
+      }
+    ],
+    "descriptionSourceUrl": "https://architizer.com/blog/competitions/one-photo-challenge-2022-finalists-part-4/",
+    "id": "high-low-freedom",
+    "kind": "single",
+    "order": 7,
+    "featured": true,
+    "featuredOrder": 7,
+    "images": [
+      {
+        "id": "high-low-freedom-01",
+        "src": "images/high-low-freedom/high-low-freedom-01-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A steep view down past shoes and a balcony railing toward a pool, rooftops, and streets.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/high-low-freedom/high-low-freedom-01-480.jpg",
+            "webp": "images/high-low-freedom/high-low-freedom-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/high-low-freedom/high-low-freedom-01-960.jpg",
+            "webp": "images/high-low-freedom/high-low-freedom-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2134,
+            "jpeg": "images/high-low-freedom/high-low-freedom-01-1600.jpg",
+            "webp": "images/high-low-freedom/high-low-freedom-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/high-low-freedom/high-low-freedom-01-2400.jpg",
+            "webp": "images/high-low-freedom/high-low-freedom-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "high-low-freedom-01"
+  },
+  {
+    "slug": "rainy-crossing",
+    "title": "Untitled (Rainy Crossing)",
+    "primaryCategory": "people-life",
+    "id": "rainy-crossing",
+    "kind": "single",
+    "order": 8,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "rainy-crossing-01",
+        "src": "images/rainy-crossing/rainy-crossing-01-2400.jpg",
+        "width": 2400,
+        "height": 1800,
+        "alt": "Two people share an umbrella as they cross a rain-soaked city street.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 360,
+            "jpeg": "images/rainy-crossing/rainy-crossing-01-480.jpg",
+            "webp": "images/rainy-crossing/rainy-crossing-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 720,
+            "jpeg": "images/rainy-crossing/rainy-crossing-01-960.jpg",
+            "webp": "images/rainy-crossing/rainy-crossing-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 1200,
+            "jpeg": "images/rainy-crossing/rainy-crossing-01-1600.jpg",
+            "webp": "images/rainy-crossing/rainy-crossing-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 1800,
+            "jpeg": "images/rainy-crossing/rainy-crossing-01-2400.jpg",
+            "webp": "images/rainy-crossing/rainy-crossing-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "rainy-crossing-01"
+  },
+  {
+    "slug": "timber-folds",
+    "title": "Untitled (Timber Folds)",
+    "primaryCategory": "interiors",
+    "id": "timber-folds",
+    "kind": "single",
+    "order": 9,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "timber-folds-01",
+        "src": "images/timber-folds/timber-folds-01-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A small figure appears between angular planes of pale timber slats.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/timber-folds/timber-folds-01-480.jpg",
+            "webp": "images/timber-folds/timber-folds-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/timber-folds/timber-folds-01-960.jpg",
+            "webp": "images/timber-folds/timber-folds-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/timber-folds/timber-folds-01-1600.jpg",
+            "webp": "images/timber-folds/timber-folds-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/timber-folds/timber-folds-01-2400.jpg",
+            "webp": "images/timber-folds/timber-folds-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "timber-folds-01"
+  },
+  {
+    "slug": "a-light-kept-for-return",
+    "title": "A Light Kept for Return",
+    "primaryCategory": "urban",
+    "location": "Fes, Morocco",
+    "description": "A cat pauses in the reflected lamplight of a narrow passage in the medina of Fes. Cloth awnings, hanging garments, and rain-darkened stones give the street the intimacy of a room. Everyday traces of care keep this worn space inhabited.",
+    "id": "a-light-kept-for-return",
+    "kind": "single",
+    "order": 10,
+    "featured": false,
+    "featuredOrder": null,
+    "awards": [],
+    "images": [
+      {
+        "id": "a-light-kept-for-return-01",
+        "src": "images/a-light-kept-for-return/a-light-kept-for-return-01-2304.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "A cat in a narrow night-time passage lit by amber lamps reflected on wet stones.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 853,
+            "jpeg": "images/a-light-kept-for-return/a-light-kept-for-return-01-480.jpg",
+            "webp": "images/a-light-kept-for-return/a-light-kept-for-return-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1707,
+            "jpeg": "images/a-light-kept-for-return/a-light-kept-for-return-01-960.jpg",
+            "webp": "images/a-light-kept-for-return/a-light-kept-for-return-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2844,
+            "jpeg": "images/a-light-kept-for-return/a-light-kept-for-return-01-1600.jpg",
+            "webp": "images/a-light-kept-for-return/a-light-kept-for-return-01-1600.webp"
+          },
+          {
+            "width": 2304,
+            "height": 4096,
+            "jpeg": "images/a-light-kept-for-return/a-light-kept-for-return-01-2304.jpg",
+            "webp": "images/a-light-kept-for-return/a-light-kept-for-return-01-2304.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "a-light-kept-for-return-01"
+  },
+  {
+    "slug": "glass-staircase",
+    "title": "Untitled (Glass Staircase)",
+    "primaryCategory": "interiors",
+    "id": "glass-staircase",
+    "kind": "single",
+    "order": 11,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "glass-staircase-01",
+        "src": "images/glass-staircase/glass-staircase-01-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "Silhouettes of people seen through translucent glass stair treads, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/glass-staircase/glass-staircase-01-480.jpg",
+            "webp": "images/glass-staircase/glass-staircase-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/glass-staircase/glass-staircase-01-960.jpg",
+            "webp": "images/glass-staircase/glass-staircase-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/glass-staircase/glass-staircase-01-1600.jpg",
+            "webp": "images/glass-staircase/glass-staircase-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/glass-staircase/glass-staircase-01-2400.jpg",
+            "webp": "images/glass-staircase/glass-staircase-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "glass-staircase-01"
+  },
+  {
+    "slug": "the-architecture-of-a-spark",
+    "title": "The Architecture of a Spark",
+    "primaryCategory": "people-life",
+    "location": "Delft, the Netherlands",
+    "description": "On New Year’s Eve, light passes between people gathered before Delft’s Stadhuis. Sparks briefly illuminate faces and gestures while the historic façade recedes into darkness. The photograph observes a city through the temporary rituals and shared encounters that give it life.",
+    "id": "the-architecture-of-a-spark",
+    "kind": "single",
+    "order": 12,
+    "featured": false,
+    "featuredOrder": null,
+    "awards": [],
+    "images": [
+      {
+        "id": "the-architecture-of-a-spark-01",
+        "src": "images/the-architecture-of-a-spark/the-architecture-of-a-spark-01-2304.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "People exchange sparkler light on a dark street, briefly illuminating faces and hands.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 853,
+            "jpeg": "images/the-architecture-of-a-spark/the-architecture-of-a-spark-01-480.jpg",
+            "webp": "images/the-architecture-of-a-spark/the-architecture-of-a-spark-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1707,
+            "jpeg": "images/the-architecture-of-a-spark/the-architecture-of-a-spark-01-960.jpg",
+            "webp": "images/the-architecture-of-a-spark/the-architecture-of-a-spark-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2844,
+            "jpeg": "images/the-architecture-of-a-spark/the-architecture-of-a-spark-01-1600.jpg",
+            "webp": "images/the-architecture-of-a-spark/the-architecture-of-a-spark-01-1600.webp"
+          },
+          {
+            "width": 2304,
+            "height": 4096,
+            "jpeg": "images/the-architecture-of-a-spark/the-architecture-of-a-spark-01-2304.jpg",
+            "webp": "images/the-architecture-of-a-spark/the-architecture-of-a-spark-01-2304.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "the-architecture-of-a-spark-01"
+  },
+  {
+    "slug": "blue-umbrella",
+    "title": "Untitled (Blue Umbrella)",
+    "primaryCategory": "details",
+    "id": "blue-umbrella",
+    "kind": "single",
+    "order": 13,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "blue-umbrella-01",
+        "src": "images/blue-umbrella/blue-umbrella-01-2380.jpg",
+        "width": 2380,
+        "height": 1493,
+        "alt": "A blue and green umbrella stands against a sunlit brick wall and sharp stair shadows.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 301,
+            "jpeg": "images/blue-umbrella/blue-umbrella-01-480.jpg",
+            "webp": "images/blue-umbrella/blue-umbrella-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 602,
+            "jpeg": "images/blue-umbrella/blue-umbrella-01-960.jpg",
+            "webp": "images/blue-umbrella/blue-umbrella-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 1004,
+            "jpeg": "images/blue-umbrella/blue-umbrella-01-1600.jpg",
+            "webp": "images/blue-umbrella/blue-umbrella-01-1600.webp"
+          },
+          {
+            "width": 2380,
+            "height": 1493,
+            "jpeg": "images/blue-umbrella/blue-umbrella-01-2380.jpg",
+            "webp": "images/blue-umbrella/blue-umbrella-01-2380.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "blue-umbrella-01"
+  },
+  {
+    "slug": "courtyard",
+    "title": "Untitled (Courtyard)",
+    "primaryCategory": "people-life",
+    "id": "courtyard",
+    "kind": "single",
+    "order": 14,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "courtyard-01",
+        "src": "images/courtyard/courtyard-01-2400.jpg",
+        "width": 2400,
+        "height": 1800,
+        "alt": "A seated person in a courtyard framed by overlapping tiled rooftops, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 360,
+            "jpeg": "images/courtyard/courtyard-01-480.jpg",
+            "webp": "images/courtyard/courtyard-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 720,
+            "jpeg": "images/courtyard/courtyard-01-960.jpg",
+            "webp": "images/courtyard/courtyard-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 1200,
+            "jpeg": "images/courtyard/courtyard-01-1600.jpg",
+            "webp": "images/courtyard/courtyard-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 1800,
+            "jpeg": "images/courtyard/courtyard-01-2400.jpg",
+            "webp": "images/courtyard/courtyard-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "courtyard-01"
+  },
+  {
+    "slug": "spiral-staircase",
+    "title": "Untitled (Spiral Staircase)",
+    "primaryCategory": "interiors",
+    "id": "spiral-staircase",
+    "kind": "single",
+    "order": 15,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "spiral-staircase-01",
+        "src": "images/spiral-staircase/spiral-staircase-01-2268.jpg",
+        "width": 2268,
+        "height": 4032,
+        "alt": "A spiral staircase curls toward a small figure at its centre, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 853,
+            "jpeg": "images/spiral-staircase/spiral-staircase-01-480.jpg",
+            "webp": "images/spiral-staircase/spiral-staircase-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1707,
+            "jpeg": "images/spiral-staircase/spiral-staircase-01-960.jpg",
+            "webp": "images/spiral-staircase/spiral-staircase-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2844,
+            "jpeg": "images/spiral-staircase/spiral-staircase-01-1600.jpg",
+            "webp": "images/spiral-staircase/spiral-staircase-01-1600.webp"
+          },
+          {
+            "width": 2268,
+            "height": 4032,
+            "jpeg": "images/spiral-staircase/spiral-staircase-01-2268.jpg",
+            "webp": "images/spiral-staircase/spiral-staircase-01-2268.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "spiral-staircase-01"
+  },
+  {
+    "slug": "bird-and-skyline",
+    "title": "Untitled (Bird and Skyline)",
+    "primaryCategory": "urban",
+    "id": "bird-and-skyline",
+    "kind": "single",
+    "order": 16,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "bird-and-skyline-01",
+        "src": "images/bird-and-skyline/bird-and-skyline-01-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A bird flies across a canal view with low buildings and tall towers in the distance.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/bird-and-skyline/bird-and-skyline-01-480.jpg",
+            "webp": "images/bird-and-skyline/bird-and-skyline-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/bird-and-skyline/bird-and-skyline-01-960.jpg",
+            "webp": "images/bird-and-skyline/bird-and-skyline-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/bird-and-skyline/bird-and-skyline-01-1600.jpg",
+            "webp": "images/bird-and-skyline/bird-and-skyline-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/bird-and-skyline/bird-and-skyline-01-2400.jpg",
+            "webp": "images/bird-and-skyline/bird-and-skyline-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "bird-and-skyline-01"
+  },
+  {
+    "slug": "watching-the-square",
+    "title": "Untitled (Watching the Square)",
+    "primaryCategory": "people-life",
+    "id": "watching-the-square",
+    "kind": "single",
+    "order": 17,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "watching-the-square-01",
+        "src": "images/watching-the-square/watching-the-square-01-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A person in a red shirt watches a screen in an outdoor square.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/watching-the-square/watching-the-square-01-480.jpg",
+            "webp": "images/watching-the-square/watching-the-square-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/watching-the-square/watching-the-square-01-960.jpg",
+            "webp": "images/watching-the-square/watching-the-square-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/watching-the-square/watching-the-square-01-1600.jpg",
+            "webp": "images/watching-the-square/watching-the-square-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/watching-the-square/watching-the-square-01-2400.jpg",
+            "webp": "images/watching-the-square/watching-the-square-01-2400.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "watching-the-square-01"
+  },
+  {
+    "slug": "sunlit-passage",
+    "title": "Untitled (Sunlit Passage)",
+    "primaryCategory": "urban",
+    "id": "sunlit-passage",
+    "kind": "single",
+    "order": 18,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "sunlit-passage-01",
+        "src": "images/sunlit-passage/sunlit-passage-01-2304.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "A dark dog turns in a narrow passage between sunlit terracotta walls.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 853,
+            "jpeg": "images/sunlit-passage/sunlit-passage-01-480.jpg",
+            "webp": "images/sunlit-passage/sunlit-passage-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1707,
+            "jpeg": "images/sunlit-passage/sunlit-passage-01-960.jpg",
+            "webp": "images/sunlit-passage/sunlit-passage-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2844,
+            "jpeg": "images/sunlit-passage/sunlit-passage-01-1600.jpg",
+            "webp": "images/sunlit-passage/sunlit-passage-01-1600.webp"
+          },
+          {
+            "width": 2304,
+            "height": 4096,
+            "jpeg": "images/sunlit-passage/sunlit-passage-01-2304.jpg",
+            "webp": "images/sunlit-passage/sunlit-passage-01-2304.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "sunlit-passage-01"
+  },
+  {
+    "slug": "rooftop-curves",
+    "title": "Untitled (Rooftop Curves)",
+    "primaryCategory": "details",
+    "id": "rooftop-curves",
+    "kind": "single",
+    "order": 19,
+    "featured": false,
+    "featuredOrder": null,
+    "description": "",
+    "awards": [],
+    "images": [
+      {
+        "id": "rooftop-curves-01",
+        "src": "images/rooftop-curves/rooftop-curves-01-2304.jpg",
+        "width": 2304,
+        "height": 4096,
+        "alt": "A person looks through an opening between curved ochre rooftop structures under a blue sky.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 853,
+            "jpeg": "images/rooftop-curves/rooftop-curves-01-480.jpg",
+            "webp": "images/rooftop-curves/rooftop-curves-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1707,
+            "jpeg": "images/rooftop-curves/rooftop-curves-01-960.jpg",
+            "webp": "images/rooftop-curves/rooftop-curves-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2844,
+            "jpeg": "images/rooftop-curves/rooftop-curves-01-1600.jpg",
+            "webp": "images/rooftop-curves/rooftop-curves-01-1600.webp"
+          },
+          {
+            "width": 2304,
+            "height": 4096,
+            "jpeg": "images/rooftop-curves/rooftop-curves-01-2304.jpg",
+            "webp": "images/rooftop-curves/rooftop-curves-01-2304.webp"
+          }
+        ],
+        "order": 1
+      }
+    ],
+    "coverImageId": "rooftop-curves-01"
+  }
+]

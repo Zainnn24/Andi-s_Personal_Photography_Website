@@ -1,0 +1,74 @@
+{
+  "name": "Andi Lin",
+  "fullName": "Youyuan (Andi) Lin",
+  "title": "Andi Lin — Photography",
+  "description": "Photographs by Andi Lin. Observations of people, architecture, and the everyday life of places.",
+  "origin": "https://zainnn24.github.io",
+  "basePath": "/Andi-s_Personal_Photography_Website",
+  "email": "y.lin-57@student.tudelft.nl",
+  "biography": [
+    "Youyuan (Andi) Lin is an architecture student and photographer whose work explores the relationships between people, built environments, and everyday life. Her photographs attend to the gestures, reflections, and passing encounters that give places meaning.",
+    "An architectural education informs her sensitivity to space, material, and the stories held in ordinary surroundings. Moving between the scale of a city and the intimacy of a small detail, she looks at how human presence animates the spaces we inhabit.",
+    "She holds a Bachelor of Science in Architecture with an Environment Minor from McGill University and is pursuing a Master of Science in Architecture, Urbanism and Building Sciences at TU Delft."
+  ],
+  "education": [
+    {
+      "school": "TU Delft",
+      "degree": "MSc Architecture, Urbanism and Building Sciences",
+      "dates": "2025–present"
+    },
+    {
+      "school": "McGill University",
+      "degree": "BSc Architecture · Environment Minor",
+      "dates": "2021–2025"
+    }
+  ],
+  "recognition": [
+    {
+      "year": 2026,
+      "title": "Vision Awards — Jury Winner",
+      "organization": "Architizer",
+      "detail": "What Remains Alive · Photograph: People",
+      "url": "https://winners.architizer.com/2026/Vision/"
+    },
+    {
+      "year": 2025,
+      "title": "Vision Awards — Editor’s Choice Winner",
+      "organization": "Architizer",
+      "detail": "The City Ripples, So Do We · Architecture & Urban Life",
+      "url": "https://winners.architizer.com/2025/Vision/"
+    },
+    {
+      "year": 2025,
+      "title": "The Visionary 100",
+      "organization": "Architizer",
+      "detail": "Visionary 100 Creator",
+      "url": "https://architizer.com/blog/inspiration/industry/the-visionary-100-2025/"
+    },
+    {
+      "year": 2024,
+      "title": "Annual Photo Competition — First Place",
+      "organization": "Xinyangda",
+      "detail": "The Firework’s Echo"
+    },
+    {
+      "year": 2023,
+      "title": "Vision Awards — Student Winner",
+      "organization": "Architizer",
+      "detail": "Playful Growth · Urban Photograph",
+      "url": "https://architizer.com/blog/inspiration/collections/micro-to-macro-vision-awards/"
+    },
+    {
+      "year": 2023,
+      "title": "International Photography Awards — Honorable Mention",
+      "organization": "IPA",
+      "detail": "Monochrome Richness, Sensorial Romance"
+    }
+  ],
+  "categories": {
+    "people-life": "People & Life",
+    "urban": "Urban",
+    "interiors": "Interiors",
+    "details": "Details"
+  }
+}
