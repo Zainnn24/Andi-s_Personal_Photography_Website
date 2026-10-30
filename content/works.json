@@ -11,11 +11,11 @@
         "distinction": "Jury Winner",
         "year": 2026,
         "category": "Photograph: People",
-        "url": "https://winners.architizer.com/2026/Vision/",
+        "url": "https://winners.architizer.com/2026/Vision/photograph-2/people/",
         "scope": "single"
       }
     ],
-    "descriptionSourceUrl": "https://winners.architizer.com/2026/Vision/",
+    "descriptionSourceUrl": "https://winners.architizer.com/2026/Vision/photograph-2/people/",
     "id": "what-remains-alive",
     "kind": "single",
     "order": 1,
@@ -71,7 +71,7 @@
         "distinction": "Editor’s Choice Winner",
         "year": 2025,
         "category": "Photograph: Architecture & Urban Life",
-        "url": "https://winners.architizer.com/2025/Vision/",
+        "url": "https://winners.architizer.com/2025/Vision/photograph-1/architecture-urban-life/",
         "scope": "single"
       },
       {
@@ -79,11 +79,11 @@
         "distinction": "Finalist",
         "year": 2025,
         "category": "Photograph: Architecture & People",
-        "url": "https://winners.architizer.com/2025/Vision/",
+        "url": "https://winners.architizer.com/2025/Vision/photograph-1/architecture-people-1/",
         "scope": "single"
       }
     ],
-    "descriptionSourceUrl": "https://winners.architizer.com/2025/Vision/",
+    "descriptionSourceUrl": "https://winners.architizer.com/2025/Vision/photograph-1/architecture-urban-life/",
     "id": "the-city-ripples-so-do-we",
     "kind": "single",
     "order": 2,
@@ -140,11 +140,11 @@
         "distinction": "Student Winner",
         "year": 2023,
         "category": "Urban Photograph",
-        "url": "https://architizer.com/blog/inspiration/collections/micro-to-macro-vision-awards/",
+        "url": "https://winners.architizer.com/2023/Vision/photograph/urban-photograph/",
         "scope": "single"
       }
     ],
-    "descriptionSourceUrl": "https://architizer.com/blog/inspiration/collections/micro-to-macro-vision-awards/",
+    "descriptionSourceUrl": "https://winners.architizer.com/2023/Vision/photograph/urban-photograph/",
     "id": "playful-growth",
     "kind": "single",
     "order": 3,
@@ -320,7 +320,7 @@
         "distinction": "Honorable Mention",
         "year": 2023,
         "category": "",
-        "url": null,
+        "url": "https://photoawards.com/social/zoom.php?eid=8-1686634464-23",
         "scope": "series"
       }
     ],
@@ -329,41 +329,6 @@
     "featured": true,
     "featuredOrder": 6,
     "images": [
-      {
-        "id": "monochrome-richness-sensorial-romance-01",
-        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-2400.jpg",
-        "width": 2400,
-        "height": 3200,
-        "alt": "A young child stands in a strip of sunlight beside a graffiti-covered wall, in black and white.",
-        "caption": "",
-        "variants": [
-          {
-            "width": 480,
-            "height": 640,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-480.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-480.webp"
-          },
-          {
-            "width": 960,
-            "height": 1280,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-960.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-960.webp"
-          },
-          {
-            "width": 1600,
-            "height": 2133,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-1600.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-1600.webp"
-          },
-          {
-            "width": 2400,
-            "height": 3200,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-2400.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-2400.webp"
-          }
-        ],
-        "order": 1
-      },
       {
         "id": "monochrome-richness-sensorial-romance-02",
         "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-2400.jpg",
@@ -397,77 +362,147 @@
             "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-02-2400.webp"
           }
         ],
-        "order": 2
+        "order": 1
       },
       {
-        "id": "monochrome-richness-sensorial-romance-03",
-        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-2400.jpg",
-        "width": 2400,
-        "height": 3200,
-        "alt": "An ornate railing casts a patterned shadow across a stone threshold, in black and white.",
+        "id": "monochrome-richness-sensorial-romance-10",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-1980.jpg",
+        "width": 1980,
+        "height": 3520,
+        "alt": "Trees and sky seen through a row of windows from a dark interior, in black and white.",
         "caption": "",
         "variants": [
           {
             "width": 480,
-            "height": 640,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-480.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-480.webp"
+            "height": 853,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-480.webp"
           },
           {
             "width": 960,
-            "height": 1280,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-960.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-960.webp"
+            "height": 1707,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-960.webp"
           },
           {
             "width": 1600,
-            "height": 2133,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-1600.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-1600.webp"
+            "height": 2844,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-1600.webp"
+          },
+          {
+            "width": 1980,
+            "height": 3520,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-1980.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-1980.webp"
+          }
+        ],
+        "order": 2
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-09",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-2400.jpg",
+        "width": 2400,
+        "height": 3298,
+        "alt": "A chairlift carries passengers above a mountain and conifers, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 660,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1319,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2199,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-1600.webp"
           },
           {
             "width": 2400,
-            "height": 3200,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-2400.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-2400.webp"
+            "height": 3298,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-2400.webp"
           }
         ],
         "order": 3
       },
       {
-        "id": "monochrome-richness-sensorial-romance-04",
-        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-2400.jpg",
+        "id": "monochrome-richness-sensorial-romance-08",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-2400.jpg",
         "width": 2400,
-        "height": 2884,
-        "alt": "Overhead wires cross a pale sky above a sloping rooftop, in black and white.",
+        "height": 3566,
+        "alt": "A narrow band of sunlight crosses a wooden floor beside a chair, in black and white.",
         "caption": "",
         "variants": [
           {
             "width": 480,
-            "height": 577,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-480.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-480.webp"
+            "height": 713,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-480.webp"
           },
           {
             "width": 960,
-            "height": 1154,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-960.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-960.webp"
+            "height": 1427,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-960.webp"
           },
           {
             "width": 1600,
-            "height": 1923,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-1600.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-1600.webp"
+            "height": 2378,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-1600.webp"
           },
           {
             "width": 2400,
-            "height": 2884,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-2400.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-2400.webp"
+            "height": 3566,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-2400.webp"
           }
         ],
         "order": 4
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-01",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "A young child stands in a strip of sunlight beside a graffiti-covered wall, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-01-2400.webp"
+          }
+        ],
+        "order": 5
       },
       {
         "id": "monochrome-richness-sensorial-romance-05",
@@ -500,41 +535,6 @@
             "height": 3200,
             "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-2400.jpg",
             "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-05-2400.webp"
-          }
-        ],
-        "order": 5
-      },
-      {
-        "id": "monochrome-richness-sensorial-romance-06",
-        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-2400.jpg",
-        "width": 2400,
-        "height": 3200,
-        "alt": "A droplet hangs beneath a metal coffee pot above a white cup, in black and white.",
-        "caption": "",
-        "variants": [
-          {
-            "width": 480,
-            "height": 640,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-480.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-480.webp"
-          },
-          {
-            "width": 960,
-            "height": 1280,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-960.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-960.webp"
-          },
-          {
-            "width": 1600,
-            "height": 2133,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-1600.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-1600.webp"
-          },
-          {
-            "width": 2400,
-            "height": 3200,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-2400.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-2400.webp"
           }
         ],
         "order": 6
@@ -575,112 +575,112 @@
         "order": 7
       },
       {
-        "id": "monochrome-richness-sensorial-romance-08",
-        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-2400.jpg",
-        "width": 2400,
-        "height": 3566,
-        "alt": "A narrow band of sunlight crosses a wooden floor beside a chair, in black and white.",
-        "caption": "",
-        "variants": [
-          {
-            "width": 480,
-            "height": 713,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-480.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-480.webp"
-          },
-          {
-            "width": 960,
-            "height": 1427,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-960.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-960.webp"
-          },
-          {
-            "width": 1600,
-            "height": 2378,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-1600.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-1600.webp"
-          },
-          {
-            "width": 2400,
-            "height": 3566,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-2400.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-08-2400.webp"
-          }
-        ],
-        "order": 8
-      },
-      {
-        "id": "monochrome-richness-sensorial-romance-09",
-        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-2400.jpg",
-        "width": 2400,
-        "height": 3298,
-        "alt": "A chairlift carries passengers above a mountain and conifers, in black and white.",
-        "caption": "",
-        "variants": [
-          {
-            "width": 480,
-            "height": 660,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-480.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-480.webp"
-          },
-          {
-            "width": 960,
-            "height": 1319,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-960.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-960.webp"
-          },
-          {
-            "width": 1600,
-            "height": 2199,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-1600.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-1600.webp"
-          },
-          {
-            "width": 2400,
-            "height": 3298,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-2400.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-09-2400.webp"
-          }
-        ],
-        "order": 9
-      },
-      {
-        "id": "monochrome-richness-sensorial-romance-10",
-        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-2400.jpg",
+        "id": "monochrome-richness-sensorial-romance-06",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-2400.jpg",
         "width": 2400,
         "height": 3200,
-        "alt": "Corrugated roof edges, pipes, and overhead cables, in black and white.",
+        "alt": "A droplet hangs beneath a metal coffee pot above a white cup, in black and white.",
         "caption": "",
         "variants": [
           {
             "width": 480,
             "height": 640,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-480.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-480.webp"
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-480.webp"
           },
           {
             "width": 960,
             "height": 1280,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-960.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-960.webp"
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-960.webp"
           },
           {
             "width": 1600,
             "height": 2133,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-1600.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-1600.webp"
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-1600.webp"
           },
           {
             "width": 2400,
             "height": 3200,
-            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-2400.jpg",
-            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-10-2400.webp"
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-06-2400.webp"
+          }
+        ],
+        "order": 8
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-03",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-2400.jpg",
+        "width": 2400,
+        "height": 3200,
+        "alt": "An ornate railing casts a patterned shadow across a stone threshold, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 640,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1280,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 2133,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 3200,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-03-2400.webp"
+          }
+        ],
+        "order": 9
+      },
+      {
+        "id": "monochrome-richness-sensorial-romance-04",
+        "src": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-2400.jpg",
+        "width": 2400,
+        "height": 2884,
+        "alt": "Overhead wires cross a pale sky above a sloping rooftop, in black and white.",
+        "caption": "",
+        "variants": [
+          {
+            "width": 480,
+            "height": 577,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-480.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-480.webp"
+          },
+          {
+            "width": 960,
+            "height": 1154,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-960.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-960.webp"
+          },
+          {
+            "width": 1600,
+            "height": 1923,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-1600.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-1600.webp"
+          },
+          {
+            "width": 2400,
+            "height": 2884,
+            "jpeg": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-2400.jpg",
+            "webp": "images/monochrome-richness-sensorial-romance/monochrome-richness-sensorial-romance-04-2400.webp"
           }
         ],
         "order": 10
       }
     ],
-    "coverImageId": "monochrome-richness-sensorial-romance-01"
+    "coverImageId": "monochrome-richness-sensorial-romance-02"
   },
   {
     "slug": "high-low-freedom",

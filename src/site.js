@@ -1,4 +1,9 @@
 (() => {
+  // Discourage casual saving of display copies; original masters stay outside the public site.
+  document.querySelectorAll('.work-link picture, .image-open, .viewer-image').forEach(photo => {
+    photo.addEventListener('contextmenu', event => event.preventDefault());
+    photo.addEventListener('dragstart', event => event.preventDefault());
+  });
   const controls = document.querySelector('.filters');
   if (controls) {
     const buttons = [...controls.querySelectorAll('[data-filter]')];
@@ -68,19 +73,21 @@
   };
   photo.addEventListener('error', () => { error.hidden = false; });
   photo.addEventListener('load', () => { error.hidden = true; });
+  const openViewer = (index, source) => {
+    opener = source;
+    show(index);
+    originalOverflow = document.documentElement.style.overflow;
+    document.documentElement.style.overflow = 'hidden';
+    dialog.showModal();
+    close.focus({ preventScroll: true });
+  };
   triggers.forEach((trigger, index) => {
     trigger.addEventListener('click', event => {
       if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
       event.preventDefault();
-      opener = trigger;
-      show(index);
-      originalOverflow = document.documentElement.style.overflow;
-      document.documentElement.style.overflow = 'hidden';
-      dialog.showModal();
-      close.focus({ preventScroll: true });
+      openViewer(index, trigger);
     });
   });
-  document.querySelectorAll('.viewer-hint').forEach(hint => { hint.hidden = false; });
   close.addEventListener('click', () => dialog.close());
   dialog.addEventListener('close', () => {
     document.documentElement.style.overflow = originalOverflow;

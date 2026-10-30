@@ -4,8 +4,8 @@
   "title": "Andi Lin — Photography",
   "description": "Photographs by Andi Lin. Observations of people, architecture, and the everyday life of places.",
   "origin": "https://zainnn24.github.io",
-  "basePath": "/Andi-s_Personal_Photography_Website",
-  "email": "y.lin-57@student.tudelft.nl",
+  "basePath": "/andi_lin",
+  "email": "youyuanlin3@gmail.com",
   "biography": [
     "Youyuan (Andi) Lin is an architecture student and photographer whose work explores the relationships between people, built environments, and everyday life. Her photographs attend to the gestures, reflections, and passing encounters that give places meaning.",
     "An architectural education informs her sensitivity to space, material, and the stories held in ordinary surroundings. Moving between the scale of a city and the intimacy of a small detail, she looks at how human presence animates the spaces we inhabit.",
@@ -21,6 +21,11 @@
       "school": "McGill University",
       "degree": "BSc Architecture · Environment Minor",
       "dates": "2021–2025"
+    },
+    {
+      "school": "The University of Hong Kong",
+      "degree": "Exchange Program · Faculty of Architecture",
+      "dates": "January–May 2024"
     }
   ],
   "recognition": [
@@ -29,14 +34,14 @@
       "title": "Vision Awards — Jury Winner",
       "organization": "Architizer",
       "detail": "What Remains Alive · Photograph: People",
-      "url": "https://winners.architizer.com/2026/Vision/"
+      "url": "https://winners.architizer.com/2026/Vision/photograph-2/people/"
     },
     {
       "year": 2025,
       "title": "Vision Awards — Editor’s Choice Winner",
       "organization": "Architizer",
       "detail": "The City Ripples, So Do We · Architecture & Urban Life",
-      "url": "https://winners.architizer.com/2025/Vision/"
+      "url": "https://winners.architizer.com/2025/Vision/photograph-1/architecture-urban-life/"
     },
     {
       "year": 2025,
@@ -56,13 +61,14 @@
       "title": "Vision Awards — Student Winner",
       "organization": "Architizer",
       "detail": "Playful Growth · Urban Photograph",
-      "url": "https://architizer.com/blog/inspiration/collections/micro-to-macro-vision-awards/"
+      "url": "https://winners.architizer.com/2023/Vision/photograph/urban-photograph/"
     },
     {
       "year": 2023,
       "title": "International Photography Awards — Honorable Mention",
       "organization": "IPA",
-      "detail": "Monochrome Richness, Sensorial Romance"
+      "detail": "Monochrome Richness, Sensorial Romance",
+      "url": "https://photoawards.com/social/zoom.php?eid=8-1686634464-23"
     }
   ],
   "categories": {

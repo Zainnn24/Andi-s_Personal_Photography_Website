@@ -2,7 +2,7 @@
 
 A quiet, English-language photography portfolio with real static pages for each work, a ten-photograph series, an About page, and email contact.
 
-Website: https://zainnn24.github.io/Andi-s_Personal_Photography_Website/
+Website: https://zainnn24.github.io/andi_lin/
 
 ## Run locally
 
@@ -46,6 +46,8 @@ Run `npm run build` and `npm run validate` after edits. The build publishes only
 
 ## Deploy
 
+The repository is `Zainnn24/andi_lin`, and the local default path is `/andi_lin`. GitHub does not automatically redirect the former `/Andi-s_Personal_Photography_Website/` Pages address.
+
 Push changes to `main`. The **Deploy photography portfolio** workflow builds and validates the site, uploads only `dist/`, and deploys it to GitHub Pages. It can also be started manually from the repository's Actions tab. In repository Settings → Pages, the source must be **GitHub Actions**.
 
 The workflow derives `BASE_PATH` and `SITE_ORIGIN` from GitHub Pages metadata. Local defaults live in `content/site.json`. To test root hosting or a different project path, set `BASE_PATH` for all three commands (build, validate, preview).
@@ -67,6 +69,18 @@ Real `index.html` files are generated for `/about/` and every `/work/<slug>/`. R
 
 Original masters, CVs, PDFs, extracted text, comparison images, curation notes, and local browser screenshots stay in the ignored `.local/` directory or outside this repository. They are not part of the public source or the website. Only selected web derivatives and public content are committed.
 
-The initial contact address is `y.lin-57@student.tudelft.nl`; change `email` in `content/site.json` to update it everywhere.
+The contact address is `youyuanlin3@gmail.com`; change `email` in `content/site.json` to update it everywhere.
+
+Photo context menus and dragging are disabled, and iOS image callouts are suppressed where supported. These measures discourage casual saving of display copies; public images can still be retrieved or captured. Original masters stay private, and native pinch-to-zoom and gallery navigation remain available.
 
 The code is a static portfolio implementation. All photographs and written artwork materials remain copyright Andi Lin. No license to reuse the photographs is granted.
+
+## October 2026 updates
+
+- Shortened the website path to `/andi_lin/`.
+- Paired What Remains Alive and The City Ripples, So Do We on desktop, with a stacked mobile layout.
+- Kept original masters private and added deterrents to casual saving of display copies.
+- Removed decorative photo arrows and full-screen labels; retained navigation uses SVG icons.
+- Updated the contact email and added the University of Hong Kong architecture exchange.
+- Linked the specific Architizer award categories for What Remains Alive, The City Ripples, So Do We, and Playful Growth.
+- Corrected the Monochrome Richness, Sensorial Romance photograph selection, matched its sequence and cover to the IPA entry, and added the IPA award link.
